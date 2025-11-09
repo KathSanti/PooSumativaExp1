@@ -7,7 +7,7 @@ Sistema administrativo desarrollado en Java para gestionar información de traba
 
 #### Estructura del Proyecto (Paquetes y clases)
 
-[![paquetes y clases](src/imagenes/jpg/paquetes y clases.png "paquetes y clases")](https://github.com/KathSanti/PooSumativaExp1/blob/master/src/imagenes/jpg/paquetes%20y%20clases.png "paquetes y clases")
+[![paquetes y clases](src/imagenes/jpg/paquetes y clases.png "paquetes y clases")](https://github.com/KathSanti/PooSumativaExp1/blob/master/src/imagenes/jpg/paquetes%20y%20clases.jpg "paquetes y clases")
 
 ## Compilar el proyecto:
 
@@ -24,8 +24,8 @@ Seleccione una opción:
  - 1: Ver lista de trabajadores
   - 2: Ver lista de proveedores
   - 3: Ver lista de clientes
-1. Después de ver cada lista, puede elegir volver al menú principal o salir
-1. Use 'S' para volver al menú o 'N' para salir del programa
+3. Después de ver cada lista, puede elegir volver al menú principal o salir
+4. Use 'S' para volver al menú o 'N' para salir del programa
 ------------
 
 ## Notas Técnicas
