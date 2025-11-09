@@ -7,7 +7,7 @@ Sistema administrativo desarrollado en Java para gestionar información de traba
 
 #### Estructura del Proyecto (Paquetes y clases)
 
-[![paquetes y clases](src/imagenes/jpg/paquetes y clases.png "paquetes y clases")]("https://github.com/KathSanti/PooSumativaExp1/tree/master/src/imagenes/jpg")
+[![paquetes y clases](src/imagenes/jpg")]("https://github.com/KathSanti/PooSumativaExp1/tree/master/src/imagenes/jpg")
 
 ## Compilar el proyecto:
 
